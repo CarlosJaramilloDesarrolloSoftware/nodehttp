@@ -2,6 +2,7 @@
   "name": "nodehttp",
   "version": "1.0.0",
   "description": "Primer Proyecto con Express",
+  "main": "server.js",
   "scripts": {
     "start": "node server-express-html.js",
     "test": "echo \"Error: no test specified\" && exit 1"
